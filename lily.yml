@@ -1,0 +1,4 @@
+name: lily
+channels:
+  - defaults
+prefix: /opt/anaconda3/envs/lily

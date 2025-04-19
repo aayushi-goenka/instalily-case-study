@@ -1,3 +1,17 @@
+# Install environment
+
+conda env create -f environment.yml
+conda activate lily
+
+create .env file with OpenAI API key, PORT (for backend)
+
+pip install -r requirements.txt
+
+run for backend - python3 app.py
+
+For the frontend: run npm install, then npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
