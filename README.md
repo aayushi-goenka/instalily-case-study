@@ -11,6 +11,8 @@ run for backend - python3 app.py
 
 For the frontend: run npm install, then npm start
 
+NOTE: the backend runs at port 8000, and the frontend runs at 3000
+
 
 # Getting Started with Create React App
 
